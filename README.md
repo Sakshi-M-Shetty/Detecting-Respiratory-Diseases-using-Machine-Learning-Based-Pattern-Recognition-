@@ -1,0 +1,2 @@
+# Detecting-Respiratory-Diseases-using-Machine-Learning-Based-Pattern-Recognition-
+This study applies machine learning to analyze spirometry data for detecting and classifying respiratory diseases. The system uses advanced models to provide a reliable and scalable diagnostic solution. By combining healthcare data with intelligent algorithms to support doctors, and enables remote monitoring in modern healthcare settings.
